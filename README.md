@@ -2,7 +2,7 @@
 
 **Student:** Mohammed Hilal  
 **Degree:** B.E. Computer Science & Engineering (AI & ML)  
-**Institution:** Lords Institute of Engineering & Technology, Hyderabad  
+**Institution:** Nawab Shah Alam Khan College of Engineering & Technology, Hyderabad  
 **Internship:** AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026
 
 ## Project Description
