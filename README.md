@@ -100,7 +100,3 @@ The notebook demonstrates target-leakage awareness. Because a demonstration chur
 ## Student Profile
 
 Mohammed Hilal is a B.E. CSE (AI & ML) graduate with a focus on Python, machine learning, NLP and GenAI. Relevant project experience includes Resume Parser using LangChain/GenAI, ML classification projects and NLP-based applications.
-
-## Academic Use
-
-Prepared as an academic internship project for the AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026.
